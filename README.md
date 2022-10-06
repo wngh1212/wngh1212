@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6633CC&height=300&section=header&text=KangJuHo%20&fontSize=90)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wngh1212&show_icons=true&theme=radical)<br>
 
 <h1>활동 및 경험</h1>
 <hr="2">
