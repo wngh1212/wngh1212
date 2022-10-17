@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6633CC&height=300&section=header&text=Kang JuHo%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6633CC&height=300&section=header&text=KangJuHo%20&fontSize=90)
 
 <h1>활동 및 경험</h1>
 <hr="2">
