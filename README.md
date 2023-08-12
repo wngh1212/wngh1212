@@ -14,5 +14,4 @@
 | **안드로이드 앱개발 방과후**  |안드로이드 스튜디오로 앱개발 | 성일정보고등학교 |
 | **SK SmarTeen App<br>챌린지**  |환경을 주제로한 <br>앱 개발 아이디어 | 성일정보고등학교 |
 | **사이버가디언즈CTF**  |사이버가디언즈CTF본선 | 성일정보고등학교 |
-| **블로그**  |<a href="https://blog.naver.com/winter5622">보안 및 배운 것들 정리한 블로그</a>| |
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwngh1212&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                                 
