@@ -10,7 +10,7 @@
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -64,6 +64,6 @@
 
 ---
 
-<p align="center">✨ Thank you for visiting my profile! ✨</p>
+<p align="">✨ Thank you for visiting my profile! ✨</p>
 
 
