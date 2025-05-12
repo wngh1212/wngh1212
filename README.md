@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://git-profile-readme-banner.vercel.app/api/python?username=wngh1212&bg=black&fill=yellow&txt=Welcome%20to%20My%20GitHub%20Profile!">
+  <img src="https://git-profile-readme-banner.vercel.app/api/python?username=wngh1212&bg=black&fill=yellow&txt=Welcome%20to%20My%20GitHub%20!">
 </p>
 
 ## 🚀 About Me
